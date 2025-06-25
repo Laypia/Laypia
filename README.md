@@ -4,9 +4,10 @@
 >
 ## ABOUT ME
 - 🏫 I'm studying at Kumoh National Institute of Technology.
-- 📚 My major is Semiconductor System Engineering.
+- 📚 I'm majoring in Semiconductor System Engineering.
+- 💻 I've learned C, Verilog, and Python
 - 🌱 I'm interested in Backend Development: Server, Database, API.
-
+- 🌐 Before university, I gained experience in web and backend development, using JavaScript, Node.js, Flask, MySQL, Nginx, and Linux server environments.
 
 
 <!--
